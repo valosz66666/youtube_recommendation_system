@@ -15,7 +15,7 @@
 5.ETToday
 6.NEXTTV
 
-二.六項服務
+二.四項服務
 1.熱門題材
 爬取每天的新聞，將每天的新聞數乘上一個係數，讓每天的字詞權重相當，如今天有600篇新聞，明天有900篇新聞，乘上平均數，讓每天的熱門詞基準變成750篇新聞。
 再從這些資料中做成文字雲及Json檔供使用者查詢趨勢圖。
@@ -75,6 +75,24 @@
 
 4.流量分析圖表
 
-5.影片流量預測
+資料來源
+![image](https://github.com/valosz66666/youtube_recommendation_system/blob/master/images/%E7%9B%AE%E6%A8%99.PNG)
+![image](https://github.com/valosz66666/youtube_recommendation_system/blob/master/images/%E6%B5%81%E9%87%8F.PNG)
 
-6.合作流量預測
+統計目標
+時間
+![image](https://github.com/valosz66666/youtube_recommendation_system/blob/master/images/%E7%B5%B1%E8%A8%88.PNG)
+![image](https://github.com/valosz66666/youtube_recommendation_system/blob/master/images/%E7%B5%B1%E8%A8%882.PNG)
+
+得出結論
+![image](https://github.com/valosz66666/youtube_recommendation_system/blob/master/images/%E7%B5%B1%E8%A8%883.PNG)
+
+加入流量做分析
+![image](https://github.com/valosz66666/youtube_recommendation_system/blob/master/images/%E7%B5%B1%E8%A8%884.PNG)
+![image](https://github.com/valosz66666/youtube_recommendation_system/blob/master/images/%E7%B5%B1%E8%A8%885.PNG)
+
+結論
+幾乎所有的影片都會在兩天後達到飽和，不會有太多成長。
+影片發出後四個小時會被最多人觀看到，而晚上十一點則是最多人使用YouTube平台的時候
+應該發影片的時間
+應該設在七點發，到十一點時在最多人使用時被最多人看到。

@@ -32,7 +32,7 @@
 爬取不同影片的留言，並自行貼標籤，正向或負向，資料約8000筆，將每則留言斷詞以後轉換成稀疏矩陣做成特徵值訓練，並且比較多種演算法以及python其他的文字探勘套件的準確度。
 此為python第三方套件SnowNLP的訓練結果，該套件有內建的訓練集，因此做比較。
 ![image](https://github.com/valosz66666/youtube_recommendation_system/blob/master/images/%E6%AF%94%E8%BC%83%E6%BA%96%E7%A2%BA%E5%BA%A6.PNG)
-![image]https://github.com/valosz66666/youtube_recommendation_system/blob/master/images/snownlp.PNG)
+![image](https://github.com/valosz66666/youtube_recommendation_system/blob/master/images/snownlp.PNG)
 可以看出只使用自己貼標籤的資料，準確度最高。
 ![image](https://github.com/valosz66666/youtube_recommendation_system/blob/master/images/%E6%AF%94%E8%BC%83%E6%BA%96%E7%A2%BA%E5%BA%A6.PNG)
 自行使用四種演算法做訓練，並跟SnowNLP比較
